@@ -8,6 +8,7 @@ While Loop in Python:
             statement(s)
 
 """
+# For Example:
 num = 0
 
 while (num < 10):
@@ -26,5 +27,5 @@ while (num < 10):
     8
     9
     10
-    
+
 """
