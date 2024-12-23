@@ -17,5 +17,5 @@ def greeting():
 
 # calling function:
 greeting()  
-print(greet)  # This would raise an error since local_variable is not accessible outside the function.
+# print(greet)  # This would raise an error since local_variable is not accessible outside the function.
 

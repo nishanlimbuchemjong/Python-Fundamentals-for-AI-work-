@@ -13,6 +13,6 @@ def greeting():
     print(greet)
 
 # calling the function
-greeting()
+greeting()  # output: Hello
 
-print(greet)
+print(greet)    #output: Hello

@@ -13,3 +13,11 @@ Python Data Types:
     Set Type -> set, frozenset
     Binary Types -> bytes, bytearray, memoryview
 """
+
+# For Example:
+
+x = 50  # integer
+x = 50.5 # float
+x = "Nishan Limbu"  # string
+x = ["AI", "ML", "Deep Learning", "Data Structure & Algorithm"] # list
+x = ("AI", "ML", 'DL', 'DSA')   # set

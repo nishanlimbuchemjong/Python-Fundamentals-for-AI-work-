@@ -13,10 +13,10 @@ Numberic Data Type in Python:
 # For Example:
 
 x = 5
-print(type(x))      # <class 'int'>
+print(type(x))      # output: <class 'int'>
 
 y = 5.0
-print(type(y))      # <class 'float'>
+print(type(y))      # output: <class 'float'>
 
 z = 2 + 5j
-print(type(z))      # <class 'complex'>
+print(type(z))      # output: <class 'complex'>
