@@ -27,11 +27,18 @@ printing the pyramid:
 
 """
 row = 4
-start = 1
+current = 1
 for i in range(1, row+1):
     for j in range(i):
-        
-        print(start, end=" ")
-        start += 1
-        
+        print(current, end=" ")
+        current += 1 
     print()
+
+"""
+Output:
+1 
+2 3 
+4 5 6
+7 8 9 10
+
+"""
