@@ -1,14 +1,10 @@
 """
 Python Function with Parameters:
-    Syntax 1:
+    Syntax:
         def function_name(parameter: data_type) -> return_type:
             statement(s)
             return expression
-
-    Syntax 2:
-        def functuion_name(parameters):
-            statement(s)
-            return expression  
+ 
 """
 # For Example:
 
