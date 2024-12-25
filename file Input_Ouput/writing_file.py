@@ -9,7 +9,11 @@ file.write("Hello, This is my new file called write_file.txt which is auto creat
 file.close()
 
 """
-Output:
-
+Writing to a File in Append Mode (a):
+    It is done using file.write() which adds the specified string to the end of the file without erasing its existing content.
 
 """
+# For Example:
+file = open('write_file.txt', 'a')
+file.write('\nAppend mode applied for writing to a file.')
+file.close()
