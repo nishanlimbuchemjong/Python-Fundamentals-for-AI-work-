@@ -1,14 +1,12 @@
-This directory contains all files related to OOPs in Python that are necessary for AI Engineer or ML Engineer or any other fields
+Python OOPs Concepts:
+    Object Oriented Programming is a fundamental concept in Python, empowering developers to build modular, maintainable, and scalable applications. By understanding the core OOP principles (classes, objects, inheritance, encapsulation, polymorphism, and abstraction), programmers can leverage the full potential of Python OOP capabilities to design elegant and efficient solutions to complex problems.
+   
+    OOPs is a way of organizing code that uses objects and classes to represent real-world entities and their behavior. In OOPs, object has attributes thing that has specific data and can perform certain actions using methods.
 
-It contains the following topics:
-Classes
-Objects
-Polymorphism
-Encapsulation
-Inheritance
-Data Abstraction
-
-
-References:
-- Website: https://www.geeksforgeeks.org/
-- Python official documentation: https://docs.python.org/
+    It contains the following topics:
+    Classes
+    Objects
+    Polymorphism
+    Encapsulation
+    Inheritance
+    Data Abstraction

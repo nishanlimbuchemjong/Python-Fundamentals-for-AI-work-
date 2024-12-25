@@ -1,11 +1,8 @@
-This repo contains all files related to the fundamentals of Python that are necessary for AI Engineer or ML Engineer or any other fields
+This repo contains all files related to Python Programming for AI Engineer or ML Engineer or any other fields
 
-It contains the following topics of Fundamental of Python:
-Data Types
-Variables
-Loops
-Conditional statment
-Funcitons
+It contains the following directory:
+OOPs in Python
+Python Fundamentals
 
 
 References:
