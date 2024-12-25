@@ -1,9 +1,0 @@
-Types of Python Function Arguments:
-Python supports various types of arguments that can be passed at the time of the function call. 
-
-In Python, we have the following function argument types in Python:
-
-1. Default argument
-2. Keyword arguments (named arguments)
-3. Positional arguments
-4. Arbitrary arguments (variable-length arguments *args and **kwargs)

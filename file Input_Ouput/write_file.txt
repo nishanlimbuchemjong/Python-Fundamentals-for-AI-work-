@@ -1,2 +1,0 @@
-Hello, This is my new file called write_file.txt which is auto created
-Append mode applied for writing to a file.
